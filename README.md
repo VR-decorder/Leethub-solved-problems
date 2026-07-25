@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0088-merge-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1260-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
