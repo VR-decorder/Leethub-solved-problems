@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1207-unique-number-of-occurrences](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1260-shift-2d-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -89,5 +90,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/3536-maximum-product-of-two-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
