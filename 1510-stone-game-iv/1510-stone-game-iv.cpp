@@ -1,8 +1,6 @@
 class Solution {
 public:
-    // 0 = Not calculated
-    // 1 = Alice
-    // 2 = Bob
+
     std::vector<std::vector<int>> memo;
     bool winnerSquareGame(int n) {
         memo = std::vector<std::vector<int>>(n + 1, std::vector<int>(2, 0));
