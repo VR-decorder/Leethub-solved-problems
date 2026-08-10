@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1510-stone-game-iv) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1510-stone-game-iv) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -186,4 +190,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
