@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1207-unique-number-of-occurrences) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Queue
 |  |
 | ------- |
