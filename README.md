@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0010-regular-expression-matching) |
 | [0486-predict-the-winner](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0486-predict-the-winner) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0010-regular-expression-matching) |
 | [0115-distinct-subsequences](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0115-distinct-subsequences) |
 | [0301-remove-invalid-parentheses](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0678-valid-parenthesis-string) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0010-regular-expression-matching) |
 | [0115-distinct-subsequences](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0678-valid-parenthesis-string) |
