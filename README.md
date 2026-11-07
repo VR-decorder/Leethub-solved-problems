@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1872-stone-game-viii](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1882-process-tasks-using-servers) |
 | [2029-stone-game-ix](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting Sort
