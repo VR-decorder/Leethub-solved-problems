@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0088-merge-sorted-array) |
 | [0486-predict-the-winner](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0486-predict-the-winner) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0088-merge-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
