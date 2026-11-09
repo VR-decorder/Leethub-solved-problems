@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0012-integer-to-roman) |
 | [1096-brace-expansion-ii](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1096-brace-expansion-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/1386-cinema-seat-allocation) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0012-integer-to-roman) |
 | [0486-predict-the-winner](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0836-rectangle-overlap) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0012-integer-to-roman) |
 | [0115-distinct-subsequences](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0115-distinct-subsequences) |
 | [0301-remove-invalid-parentheses](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/VR-decorder/Leethub-solved-problems/tree/master/0678-valid-parenthesis-string) |
